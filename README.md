@@ -14,10 +14,10 @@ See related blog post [Add GUI to your E2E API tests](https://www.cypress.io/blo
 
 ## Use
 
-Install dependencies with `npm install` or `npm ci`
+Install dependencies with `npm install`
 
-See scripts in `package.json` to start the local API server and run the tests. The main ones are
+See scripts in `package.json` 
 
-* `npm start` - runs the local API server
 * `npm run cy:open` - runs Cypress in GUI mode
+* `npm run cy:run` - runs Cypress in command mode
 * `npm test` - starts the local API server and runs Cypress tests against it in headless mode
