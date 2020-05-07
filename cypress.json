@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://courseadv-tst-as.azurewebsites.net/api",
+  "projectId": "",
+  "video": false,
+  "testFiles": [ "*spec.js", "**/*.feature" ]
+}
