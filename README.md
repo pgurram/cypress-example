@@ -1,4 +1,5 @@
-# cypress-example-api-testing
+# cypress-example-api-testing.
+# Original content is from this blog :  https://www.cypress.io/blog/2017/11/07/add-gui-to-your-e2e-api-tests/
 
 > [Cypress](https://cypress.op) E2E runner can also test Rest and other APIs
 
